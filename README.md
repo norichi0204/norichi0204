@@ -8,7 +8,7 @@
 
 # My status
 <!-- --------------------------------- :) ---------------------------------- -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norichi0204&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norichi0204&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=norichi0204&theme=2077)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=norichi0204&theme=onedark&column=7
