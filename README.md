@@ -1,11 +1,11 @@
-#I'm Japanese
+# I'm Japanese
 <!-- --------------------------------- :) ---------------------------------- -->
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%norichi0204)](https://github.com/norichi0204)
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
-#My status
+# My status
 <!-- --------------------------------- :) ---------------------------------- -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norichi0204&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=norichi0204&theme=2077)
