@@ -1,4 +1,5 @@
 #I'm Japanese
+<!-- --------------------------------- :) ---------------------------------- -->
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%norichi0204)](https://github.com/norichi0204)
 
 <!-- --------------------------------- :) ---------------------------------- -->
