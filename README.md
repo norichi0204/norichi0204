@@ -1,11 +1,12 @@
 # Hi I'm Japanese
 
-##My status
+<!-- --------------------------------- :) ---------------------------------- -->
+
+#My status
 <!-- --------------------------------- :) ---------------------------------- -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norichi0204&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- --------------------------------- :) ---------------------------------- -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=norichi0204&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
