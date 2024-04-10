@@ -2,7 +2,10 @@
 ### Just 19 years old 
 ### I'm a professional student
 
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=instagram&label=Instagram)](https://www.instagram.com/i.y__0204.sw)
+
+[![InstaIcon](https://img.shields.io/badge/--FFFFFF?style=social&logo=instagram&label=Instagram)](https://www.instagram.com/i.y__0204.sw)
+[![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=Twitter&label=Twitter)](https://twitter.com/norichi0204)
+[![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=Qiita&label=Qiita)](https://qiita.com/norichi0204)
 
 #
 # 
