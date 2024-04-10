@@ -1,14 +1,12 @@
 #I'm Japanese
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%norichi0204)](https://github.com/norichi0204)
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
 #My status
 <!-- --------------------------------- :) ---------------------------------- -->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=norichi0204&theme=2077)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norichi0204&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=norichi0204&theme=2077)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=norichi0204&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
