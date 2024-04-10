@@ -2,7 +2,7 @@
 ### Just 19 years old 
 ### I'm a professional student
 
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Instagram)](https://www.instagram.com/i.y__0204.sw)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=instagram&label=Instagram)](https://www.instagram.com/i.y__0204.sw)
 
 #
 # 
