@@ -1,11 +1,11 @@
-# Welcome 
+# My status 
 ### Just 19 years old 
 ### I'm a professional student
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%norichi0204)](https://github.com/norichi0204)
 
 #
-# My status
+# 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norichi0204&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=norichi0204&theme=2077)
