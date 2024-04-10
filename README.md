@@ -1,6 +1,7 @@
-# My status 
-### Just 19 years old 
-### I'm a professional student
+# A long time ago in a galaxy far.  far away....
+### My Status
+#### Just 19 years old 
+#### I'm a professional student
 #
 <br><br><br>
     <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
