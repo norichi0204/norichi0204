@@ -1,9 +1,8 @@
-# Welcome to My GitHub
- public class me{                             
+# Welcome to My GitHub                    
   string username = "notthi";               
   int age = 19;                         
-  string country = "Japan";                   
-  string website = "Soon";    
+  string country = "Japan";  
+  
  
 <!-- --------------------------------- :) ---------------------------------- -->
 
