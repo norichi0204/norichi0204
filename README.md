@@ -1,8 +1,7 @@
-# Welcome to My GitHub                    
-  string username = "notthi";               
-  int age = 19;                         
-  string country = "Japan";  
-  
+# Welcome to My GitHub
+### Just 19 years old 
+### I'm a professional student
+#
  
 <!-- --------------------------------- :) ---------------------------------- -->
 
