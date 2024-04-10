@@ -1,9 +1,9 @@
 # Welcome to My GitHub
-## public class me{
-##  string username = "notthi";
-##  int age = 19;
-##  string country = "Japan";
-## string website = "Soon";    
+### public class me{
+###  string username = "notthi";
+###  int age = 19;
+###  string country = "Japan";
+### string website = "Soon";    
 <!-- --------------------------------- :) ---------------------------------- -->
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%norichi0204)](https://github.com/norichi0204)
