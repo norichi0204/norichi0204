@@ -2,9 +2,6 @@
 ### Just 19 years old 
 ### I'm a professional student
 #
- 
-<!-- --------------------------------- :) ---------------------------------- -->
-
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%norichi0204)](https://github.com/norichi0204)
 
 <!-- --------------------------------- :) ---------------------------------- -->
@@ -32,5 +29,5 @@
     </h1>
   </div>
 <br><br><br>
+<!-- --------------------------------- :) ---------------------------------- -->
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=norichi0204&layout=compact&theme=dracula
