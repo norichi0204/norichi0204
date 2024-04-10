@@ -5,8 +5,8 @@
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=norichi0204)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=norichi0204&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
