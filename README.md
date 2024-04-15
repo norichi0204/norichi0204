@@ -23,9 +23,5 @@
 <br><br><br>
  <img src="https://github.com/norichi0204/norichi0204/assets/74302768/c1ad9195-404f-409c-b47a-5bad9eafe79b" width="100" height="100">
 <br><br><br>
-[![InstaIcon](https://img.shields.io/badge/--FFFFFF?style=social&logo=instagram&label=Instagram)](https://www.instagram.com/i.y__0204.sw)
 
-[![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=Twitter&label=Twitter)](https://twitter.com/norichi0204)
-
-[![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=Qiita&label=Qiita)](https://qiita.com/norichi0204)
 #
