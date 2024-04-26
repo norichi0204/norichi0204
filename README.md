@@ -1,8 +1,8 @@
 # A long time ago in a galaxy far.  far away....
 ### My Status {
 #### Just 19 years old 
-#### I'm a professional student
-#### I'm Engineer 
+#### I'm a professional student Engineer
+####  
 ### }
 #
 <br><br><br><br><br><br><br>
