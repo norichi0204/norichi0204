@@ -5,12 +5,11 @@
 ####  
 ### }
 #
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norichi0204&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=norichi0204&theme=2077)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=norichi0204&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=norichi0204&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norichi0204&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 #
 #                                       hahaha
 <br><br><br>
